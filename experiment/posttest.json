@@ -42,7 +42,7 @@
 
 
     {
-      "question": "4. 	In indirect ELISA test, the order in which reagents are to be added is 1- enzyme-linked antibody 2- known antigen 3 - patient serum 4 - substrate: ",
+      "question": "4. In indirect ELISA test, the order in which reagents are to be added is 1- enzyme-linked antibody 2- known antigen 3 - patient serum 4 - substrate: ",
       "answers": {
         "a": "3-2-1-4",
         "b": " 2-4-1-3",
