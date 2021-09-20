@@ -1,4 +1,4 @@
-### Materials Required:-
+#### Materials Required:-
 
  
 1. Developing reagent: anti-Ig-alkaline phosphatase conjugate
@@ -19,27 +19,26 @@
 16. Plastic container
 17. Incubator
 18. Absorbent paper
-
  
-### Reagent Preparation:
+&nbsp;
 
- 
+#### Reagent Preparation:
 
-### PBS (phosphate-buffered saline) containing 0.05% nan3  (PBSN) : 
+
+##### PBS (phosphate-buffered saline) containing 0.05% nan3  (PBSN) : 
 
 Weigh  0.23 g NaH2PO4 (anhydrous; 1.9 mm),1.15 g Na2HPO4 (anhydrous; 8.1 mm), 9.00 g NaCl (154 mm)., 0.5g nan3  Add water to a volume  of  900 ml. Adjust to desired ph (7.2 to 7.4) using 1 M NaOH or 1 M HCl. Add water to get a final volume of 1 liter.
 
  
 
-### Blocking buffer : 
+##### Blocking buffer : 
 
 Borate-buffered saline (BBS) containing 0.05% Tween 20,1 mm EDTA,0.25% bovine serum albumin (BSA),0.05% nan3.
 To prepare BBS,dissolve  sodium borate  Na2B4O7 (5.7 g) and NaCl (7g), in 1L water,then adjust to  ph 8.5 with NaOH, then add 0.372 g EDTA ( 1mm EDTA ), 0.05% tween 20,0.25% bovine serum albumin (BSA),0.05% nan3. Store at 40C.
 
+&nbsp;
  
 ### Procedure:-
-
- 
 
 1. Coat micro titer plate with antigen: Dispense 50 μl antigen solution(coating reagent) into the  wells of an micro titer plate using pipette and tips.
 2. Wrap coated plates in plastic wrap to seal and incubate for 2 hr at 370C in an incubator.
@@ -60,19 +59,18 @@ To prepare BBS,dissolve  sodium borate  Na2B4O7 (5.7 g) and NaCl (7g), in 1L wat
 17. Using pipette and tip, transfer 25 µl stop solution (0.5 M NaOH) from vial to the wells on micro titer plates.
 18. Using a micro titer plate reader to measure NPP hydrolysis, use a 405-nm filter.
 
- 
- ### Advantages : 
+&nbsp;
 
+### Advantages: 
  
 1. A wide variety of labeled secondary antibodies are available commercially.
 2. The assay is versatile because many primary antibodies can be made in one species and the same labeled secondary antibody can be used for detection.
 3. Maximum immunoreactivity of the primary antibody is retained because it is not labeled.
 4. Sensitivity is increased because each primary antibody contains several epitopes that can be bound by the labeled secondary antibody, allowing for signal amplification.
 
+&nbsp;
  
 ### Disadvantages:
-
- 
 
 1. Cross-reactivity might occur with the secondary antibody, resulting in non specific signal.
 2. An extra incubation step is required in the procedure
